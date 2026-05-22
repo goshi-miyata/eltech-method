@@ -25,4 +25,3 @@ GetData
 
 ### ❌ NG
 CDate / UDate
-``

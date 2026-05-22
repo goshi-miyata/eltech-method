@@ -31,4 +31,3 @@ if (A) {
     return calc(1);
 }
 return calc(2);
-``
