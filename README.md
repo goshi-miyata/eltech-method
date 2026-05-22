@@ -30,7 +30,6 @@
 - [三項演算子](./coding/ternary.md)
 - [ifコメント](./coding/if-comment.md)
 - [範囲条件](./coding/range-if.md)
-- [ifネスト](./coding/if-nesting.md)
 
 ### 🏷 命名
 - [命名規則](./naming/naming-conventions.md)
