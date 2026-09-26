@@ -53,14 +53,4 @@ mainブランチへの直接更新は禁止です。
 - [チェックリスト](./checklist/review.md)
 
 ### 🔐 セキュアコーディング
-- [セキュリティ編README](./security/README.md)
-- [入力値検証](./security/input-validation.md)
-- [SQLインジェクション対策](./security/sql-injection.md)
-- [ログ出力](./security/logging.md)
-- [例外処理](./security/exception-handling.md)
-- [機密情報管理](./security/secrets.md)
-- [認証](./security/authentication.md)
-- [認可](./security/authorization.md)
-- [クロスサイトスクリプティング XSS](./security/xss.md)
-- [CSRF対策](./security/csrf.md)
-- [ファイルアップロード](./security/file-upload.md)
+- [セキュリティ編目次](./security/README.md)
