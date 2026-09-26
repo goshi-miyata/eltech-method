@@ -9,6 +9,7 @@ INCLUDE_DIRS = [
     "naming",
     "anti-patterns",
     "checklist",
+    "security"
 ]
 
 OUTPUT_DIR = ROOT / "export"
